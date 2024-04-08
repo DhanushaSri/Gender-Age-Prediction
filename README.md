@@ -1,2 +1,2 @@
 # Gender-Age-Prediction
-Python project predicts gender and age in real-time using OpenCV with high accuracy and visual feedback.
+Python project predicts gender and age using OpenCV with pre-trained models for face detection, age estimation, and gender classification. It supports real-time video or image input, providing visual feedback with bounding boxes and labels indicating gender and age range. Achieves high accuracy: 96.62% with SVM and 94.38% with KNN classifiers. Effective for real-time gender and age prediction in various applications.
